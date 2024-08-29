@@ -1,4 +1,4 @@
-1. Enter the main directory path where files should be restored for testing:
+1. Enter the main directory path where files should be restored after testing:
 
     ```bash
     Example: C:\Users\Admin\Documents\Electronic Arts\The Sims 4\Mods\Vortex Mods
